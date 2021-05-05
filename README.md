@@ -1,16 +1,7 @@
 # flutter_universe
 
-A new Flutter project.
+A flutter App
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/46304263/117206320-9fce9300-adea-11eb-89c3-12c8433f4254.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/46304263/117206375-b248cc80-adea-11eb-82c9-39de6c83b2c3.png" width="45%"></img> 
