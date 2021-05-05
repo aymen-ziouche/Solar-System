@@ -33,7 +33,6 @@ class _HomePageState extends State<HomePage> {
                     Text(
                       "Explore",
                       style: TextStyle(
-                          fontFamily: 'Avenir',
                           fontSize: 44,
                           color: titleTextColor,
                           fontWeight: FontWeight.w900),
@@ -42,7 +41,6 @@ class _HomePageState extends State<HomePage> {
                     Text(
                       'Solar System',
                       style: TextStyle(
-                        fontFamily: 'Avenir',
                         fontSize: 24,
                         color: const Color(0x7cdbf1ff),
                         fontWeight: FontWeight.w500,
@@ -105,7 +103,6 @@ class _HomePageState extends State<HomePage> {
                                       Text(
                                         planets[index].name,
                                         style: TextStyle(
-                                          fontFamily: 'Avenir',
                                           fontSize: 44,
                                           color: primaryTextColor,
                                           fontWeight: FontWeight.w900,
@@ -115,7 +112,6 @@ class _HomePageState extends State<HomePage> {
                                       Text(
                                         "Solar System",
                                         style: TextStyle(
-                                          fontFamily: 'Avenir',
                                           fontSize: 23,
                                           color: primaryTextColor,
                                           fontWeight: FontWeight.w500,
@@ -130,7 +126,6 @@ class _HomePageState extends State<HomePage> {
                                           Text(
                                             'Know more',
                                             style: TextStyle(
-                                              fontFamily: 'Avenir',
                                               fontSize: 18,
                                               color: secondaryTextColor,
                                               fontWeight: FontWeight.w500,

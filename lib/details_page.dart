@@ -26,7 +26,6 @@ class DetailsPage extends StatelessWidget {
                       Text(
                         planetInfo.name,
                         style: TextStyle(
-                          fontFamily: 'Avenir',
                           fontSize: 56,
                           color: primaryTextColor,
                           fontWeight: FontWeight.w900,
@@ -36,7 +35,6 @@ class DetailsPage extends StatelessWidget {
                       Text(
                         'Solar System',
                         style: TextStyle(
-                          fontFamily: 'Avenir',
                           fontSize: 31,
                           color: primaryTextColor,
                           fontWeight: FontWeight.w300,
@@ -50,7 +48,6 @@ class DetailsPage extends StatelessWidget {
                         maxLines: 5,
                         overflow: TextOverflow.ellipsis,
                         style: TextStyle(
-                          fontFamily: 'Avenir',
                           fontSize: 20,
                           color: contentTextColor,
                           fontWeight: FontWeight.w500,
@@ -66,7 +63,6 @@ class DetailsPage extends StatelessWidget {
                   child: Text(
                     'Gallery',
                     style: TextStyle(
-                      fontFamily: 'Avenir',
                       fontSize: 25,
                       color: const Color(0xff47455f),
                       fontWeight: FontWeight.w300,
