@@ -47,10 +47,6 @@ class _HomePageState extends State<HomePage> {
                       ),
                       textAlign: TextAlign.left,
                     ),
-                    // Padding(
-                    //   padding: const EdgeInsets.only(left: 16.0),
-                    //   child: Image.asset('assets/drop_down_icon.png'),
-                    // ),
                   ],
                 ),
               ),
